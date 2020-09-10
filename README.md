@@ -1,0 +1,1 @@
+# Django_covid_project
